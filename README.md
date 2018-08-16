@@ -1,3 +1,3 @@
 # vue-intro
 
-[I'm an inline-style link](https://vueschool.io/courses/vuejs-fundamentals)
+[Vue School](https://vueschool.io/courses/vuejs-fundamentals)
