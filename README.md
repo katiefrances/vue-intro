@@ -1,3 +1,3 @@
 # vue-intro
 
-[Vue School](https://vueschool.io/courses/vuejs-fundamentals)
+Challenges from [Vue School](https://vueschool.io/courses/vuejs-fundamentals)
